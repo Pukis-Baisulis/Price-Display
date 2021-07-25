@@ -1,0 +1,140 @@
+{
+    "JML":
+    [
+        "Gabaritinis 3A",
+        "300 Eur/t",
+
+        "Negabaritinis 5A",
+        "280 Eur/t",
+
+        "Skarda 12A",
+        "260 Eur/t",
+
+        "Automobilinės skardos 12M",
+        "250 Eur/t",
+
+        "Vielos, drožlės",
+        "230 Eur/t"
+    ],
+
+    "NerudijantisPlienas": "0.95 Eur/kg",
+
+    "Aliuminis":
+    [
+        "Aliumininių skardinių nuo gėrimų laužas",
+        "0.60 Eur/kg",
+        
+        "Aliuminio laužas, skarda",
+        "0.75 Eur/kg",
+        
+        "Aliuminio laužas, maistinis",
+        "0.90 Eur/kg",
+
+        "Aliuminio laužas, liejiniai",
+        "1.05 Eur/kg",
+
+        "Aliuminio laužas, profilis dažytas iki 1000 mm",
+        "1.10 Eur/kg",
+
+        "Aliuminio laužas, profilis nedažytas iki 1000 mm",
+        "1.20 Eur/kg",
+
+        "Aliuminio laužas, laidai be plastmasės",
+        "1.30 Eur/kg",
+
+        "Aliuminio laužas, drožlės",
+        "0.45 Eur/kg",
+
+        "Aliuminio automobilių dalys, užterštumas max 2%",
+        "1.05 Eur/kg",
+
+        "Aliumininio ratlankiai iš automobilių",
+        "1.25 Eur/kg",
+
+        "Aliumininio radiatoriai iš automobilių",
+        "0.55 Eur/kg",
+
+        "Aliumininio radiatoriai su vario vamzdeliais iš automobilių",
+        "2.00 Eur/kg"
+    ],
+
+    "Varis":
+    [
+        "Vario laužas, įvairus",
+        "5.90 Eur/kg",
+
+        "Vario laužas, elektrotechninis",
+        "6.20 Eur/kg",
+
+        "Vario laužas, drožlės",
+        "5.00 Eur/kg",
+
+        "Laidai automobiliniai, su saugiklių blokais",
+        "2.20 Eur/kg",
+        
+        "Laidai automobiliniai, su jungtimis",
+        "2.70 Eur/kg",
+
+        "Variniai laidai iki 30%",
+        "0.35 Eur/kg",
+
+        "Variniai laidai, 30-45%",
+        "1.40 Eur/kg",
+
+        "Variniai laidai, 45%",
+        "2.00 Eur/kg"
+    ],
+
+    "Bronza":
+    [
+        "Bronzos laužas, įvairus",
+        "3.4 Eur/kg",
+
+        "Bronzos laužas, drožlės",
+        "2.60 Eur/kg"
+    ],
+
+    "Zalvaris":
+    [
+        "Žalvario laužas, įvairus",
+        "3.40 Eur/kg",
+
+        "Žalvario laužas, drožlės",
+        "2.60 Eur/kg",
+
+        "Žalvariniai radiatoriai iš automobilių",
+        "3.00 Eur/kg"
+    ],
+
+    "Cinkas": "0.50 Eur/kg",
+
+    "Svinas":
+    [
+        "Švino laužas, įvairus",
+        "1.10 Eur/kg",
+
+        "Švino akumuliatoriai iš automobilių, naudoti",
+        "0.4 Eur/kg"
+    ],
+
+    "Kita":   
+    [
+        "Elektros varikliai iki 500 kg",
+        "0.4 Eur/kg",
+
+        "Elektros varikliai aliuminiu korpusu",
+        "0.45 Eur/kg",
+
+        "Elektros varikliai iš skalbimo mašinų",
+        "0.45 Eur/kg",
+
+        "Generatoriai iš automobilių",
+        "0.45 Eur/kg",
+
+        "Starteriai iš automobilių",
+        "0.4 Eur/kg"
+    ]
+    
+
+    
+}
